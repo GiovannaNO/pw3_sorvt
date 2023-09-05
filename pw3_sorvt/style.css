@@ -1,0 +1,27 @@
+@charset 'UTF-8';
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+header{
+    padding: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+header{
+    background-color: rgb(91, 99, 96);
+    color: aliceblue;
+    font-size: xx-large;
+}
+
+#botao{
+    height: 20px;
+    width: 100px;
+    background-color: oldlace;
+    border-color: aliceblue;
+    border-radius: 3px, 3px, 3px, 3px;
+}
